@@ -1,0 +1,11 @@
+Figure 1.jpg - initial robot position in equilibrium state, the static position for robot 21.15 mm with 1.99-time slot fixing the pointer location having dynamic stages assign to each tracking region.
+
+Figure 2.jpg - Robot define fix counter to each direction and tracking target position with dynamic localization in green lines.
+
+Figure 3.jpg - Robot coverage distance divide region in track and make define position of laser range at 360 degree.specifing the counter stage as per rotated angle and capture each laser to minimization and tolerate skipping factor from 6.5 -9 micro meter in 0.96 millisecond timing. 
+
+Figure 4.jpg - The model of 200 mm distance with weather circumstances at 25oC having least fault detection rate i.e. 1.19, if we raise coverage or laser range of robot with same angle as previous weather circumstances meanwhile fault detection rate get highly maximized with same energy level or battery power of our robot configuration
+
+Figure 5.jpg - The model of 200 mm distance with weather circumstances at 25oC having least fault detection rate i.e. 1.19, if we raise coverage or laser range of robot with same angle as previous weather circumstances meanwhile fault detection rate get highly maximized with same energy level or battery power of our robot configuration.
+
+Figure 6.jpg - Specification our proposed approach if raised no of dimension with same angular rotation of expert system means square error improving, hence minimum mean square error rate with 4- dimension of same iteration for our approach.
